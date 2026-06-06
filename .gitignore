@@ -1,0 +1,6 @@
+# PHP server and logs
+*.log
+
+# Project specific uploads
+uploads/*
+!uploads/.gitkeep
